@@ -1,12 +1,12 @@
 # Zotero Tab Fix
 
-A small Zotero 9 add-on that makes Ctrl+Tab toggle between the two most recently
-selected tabs, matching Firefox's default behavior. Ctrl+Shift+Tab behaves the
-same way; Shift no longer reverses through the tab strip.
+A small Zotero 9 and 10 add-on that makes Ctrl+Tab toggle between the two most
+recently selected tabs, matching Firefox's default behavior. Ctrl+Shift+Tab
+behaves the same way; Shift no longer reverses through the tab strip.
 
 ## Compatibility
 
-- Zotero 9.0.x (including 9.0.6)
+- Zotero 9.0.x and 10.0.x
 - Node.js 24 or a current LTS release for development
 
 ## Development
