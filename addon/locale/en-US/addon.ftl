@@ -1,0 +1,1 @@
+name = Zotero Tab Fix
